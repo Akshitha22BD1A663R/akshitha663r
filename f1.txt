@@ -1,2 +1,4 @@
 hello
 Kmit
+hi
+how are you
